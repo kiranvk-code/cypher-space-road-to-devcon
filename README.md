@@ -40,9 +40,10 @@ Poll screenshots available in the [`polls/`](polls/) directory.
 
 ```
 ├── README.md
-├── road_to_devcon_proposal.md          # Full proposal (markdown)
+├── road_to_devcon_proposal.md          # Full proposal v2 (markdown)
 ├── docs/
-│   ├── Road_to_Devcon8_Proposal.docx   # Formatted proposal document
+│   ├── Road_to_Devcon8_Proposal.docx   # Formatted proposal v2 (Word)
+│   ├── Road_to_Devcon8_Proposal.pdf    # Formatted proposal v2 (PDF)
 │   └── blockchain_learning_progression.docx  # Curated 22-video curriculum
 ├── feedback/
 │   ├── web3_crash_course_feedback.xlsx  # 34 responses (Jan 15)
