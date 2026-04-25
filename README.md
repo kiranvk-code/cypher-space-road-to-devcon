@@ -28,7 +28,7 @@ Cypher Space is a student-led blockchain interest group under the Department of 
 
 ## Student Demand (Poll Data)
 
-From our Blockchain Club Telegram community (44 respondents):
+From our Blockchain Club WhatsApp community (44 respondents):
 
 - **Workshop mode:** 30 offline vs 0 online — unanimous in-person preference
 - **Event interest:** Workshops (30), Hackathons (28), Bootcamps (21), Research Seminars (12), Reading Groups (5)
